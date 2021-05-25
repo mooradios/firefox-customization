@@ -1,0 +1,13 @@
+/*css part of the prismatic night theme. visit https://github.com/dbuxy218/Prismatic-Night*/
+
+ #navigator-toolbox:not(:focus-within):not(:hover) {
+    margin-top: -38px;
+  }
+  #navigator-toolbox:hover:not(:focus-within)
+  {
+	margin-top: -38px;
+  }
+  #navigator-toolbox {
+    transition: 0.2s margin-top ease-out;
+  }
+
